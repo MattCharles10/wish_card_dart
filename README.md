@@ -1,4 +1,4 @@
-# birthday_wishes_sister
+# birthday_wishes_card
 
 A new Flutter project.
 
